@@ -1,0 +1,25 @@
+{
+  "name": "@sutriptaroy/core",
+  "version": "1.0.0",
+  "description": "is the string sutripta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutriptaroywork/node-package"
+  },
+  "keywords": [
+    "sutripta"
+  ],
+  "author": "Sutripta Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutriptaroywork/node-package/issues"
+  },
+  "homepage": "https://github.com/sutriptaroywork/node-package#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
